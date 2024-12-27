@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+}
+
+div {
+    border-bottom: solid 2px;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 25px;
+    text-align: center;
+    border-bottom: solid 1px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
